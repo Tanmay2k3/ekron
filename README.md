@@ -2,7 +2,7 @@
 Ekron is a simple Music Bot made for Discord using javascript
 
 # Purpose
-It's always good to host your own Music bot because bots like Rythm don't always perform that well under high load and also they lock some features like volume control for only the paying members.
+It's always good to host your own Music bot because bots like Rythm don't always perform that well under high load and also they lock some features like volume control for only the paying members. (Can be hosted on heroku , will soon make a video about it.)
 
 # Installtion 
 **Nodejs is required for the bot to work, install it before proceeding further**
